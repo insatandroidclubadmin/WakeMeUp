@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wake Me Up!</string>
+    <string name="hello_world">Configurer votre alarme</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_its_time">ItsTime</string>
+    <string name="date">date</string>
+    <string name="turnoff">Veuiller allumer la lumière pour arrêter l\'alarme</string>
+    <string name="turnoffMath">Veuiller saisir le bon résultat pour arrêter l\'alarme</string>
+    <string name="time">00:00</string>
+    <string name="plan">alarme planifiée à : </string>   
+     <string name="cancel">alarme annulée </string>
+    <string name="ch1">L\'application WAKE ME UP! propose un réveil original </string>
+	<string name="ch2">Fini les réveils qui s\'arrêtent lorsqu\'on touche à peine l\'écran.</string>
+	<string name="ch3">En effet , pour arrêter le réveil , il faut allumer la lumière !</string>
+    <string name="faux">c\'est faux ! vous n\'etes pas encore bien réveillé apparemment ! </string>
+    <string name="mode"> Mode du réveil </string>
+    <string name="mode1"> Mode lumière </string>
+    <string name="mode2"> Mode calcul </string>
+    <string name="son">Sonnerie du réveil</string>
+    <string name="save">Enregistrer</string>
+    
+           <string name="itstime">C\'est l\'heure !</string>
+    
+    
+</resources>

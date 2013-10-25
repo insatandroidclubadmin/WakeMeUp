@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wake Me Up!</string>
+    <string name="hello_world">Configurer votre alarme</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_its_time">ItsTime</string>
+    <string name="date">date</string>
+    <string name="turnoff">Veuiller allumer la lumière pour arrêter l\'alarme</string>
+    <string name="turnoffMath">Veuiller saisir le bon résultat pour arrêter l\'alarme</string>
+    <string name="time">00:00</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="ecl">Niveau d\'éclairage</string>
+    <string name="ecl1">Moyen</string>
+    <string name="ecl2">Elevé</string>
+    <string name="sonperso">Personnalisée</string>
+    <string name="volume">Volumle du sonnerie</string>
+    <string name="vol1">Faible</string>
+    <string name="vol2">Moyen</string>
+    <string name="vol3">Fort</string>
+    <string name="MathOp">A + B = </string>
+    <string name="pourcentageVol">0\%</string>
+    <string name="pourcentageEc">0\%</string>
+    <string name="title_activity_its_maths_time">ItsMathsTime</string>
+    <string name="ch1">the WAKE ME UP App proposes a new concept of alarm </string>
+    <string name="ch2">say goodbye to those alarms that have to stop after pushing a button</string>
+    <string name="ch3">Now you have to turn the lights on to turn WAKE ME UP off !</string>
+    
+    <string name="faux"> Wrong! Looks like you still sleepy!  </string>
+    <string name="mode"> Mode du réveil </string>
+    <string name="mode1"> Mode lumière </string>
+    <string name="mode2"> Mode calcul </string>
+    <string name="son">Sonnerie du réveil</string>
+    <string name="save">Enregistrer</string>
+
+       <string name="itstime">C\'est l\'heure !</string>
+    
+    <string-array name="sounds">
+        <item>The Harlem Shake</item>
+        <item>Gangnam Style</item>
+        <item>Talking to the moon</item>
+    </string-array>
+
+</resources>

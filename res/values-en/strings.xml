@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wake Me Up!</string>
+    <string name="hello_world">Configure your alarm</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_its_time">Its Time</string>
+    <string name="date">date</string>
+    <string name="turnoff">Turn on the nearest lights to turn off the alarm</string>
+    <string name="turnoffMath">Give the rigth answer to turn off the alarm</string>
+    <string name="time">00:00</string>
+    <string name="plan">alarm set on : </string>
+    <string name="cancel">alarm canceled </string>
+        <string name="ch1">the WAKE ME UP App proposes a new concept of alarm </string>
+	<string name="ch2">say goodbye to those alarms that have to stop after pushing a button</string>
+	<string name="ch3">Now you have to turn the lights on to turn WAKE ME UP off !</string>
+
+	<string name="ecl">Lightenning level</string>
+    <string name="ecl1">Medium</string>
+    <string name="ecl2">High</string>
+    <string name="son">Alarm clock sound</string>
+    <string name="sonperso">Personnalised</string>
+    <string name="volume">Sound volumle</string>
+    <string name="vol1">Low</string>
+    <string name="vol2">Medium</string>
+    <string name="vol3">High</string>
+        <string name="faux"> Wrong! Looks like you still sleepy!  </string>
+        <string name="mode"> Alarm mode </string>
+    <string name="mode1"> Light mode </string>
+    <string name="mode2"> Math mode </string>
+    <string name="save">Save </string>
+        
+           <string name="itstime">It\'s time !</string>
+    
+   
+</resources>

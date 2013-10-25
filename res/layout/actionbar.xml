@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/bar"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="@drawable/separator" />
+
+        <ImageView
+            android:id="@+id/imageViewHome"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:onClick="onClickHome"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:src="@drawable/home" />
+
+        <ImageView
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="@drawable/separator" />
+
+        <TextView
+            android:id="@+id/textApplicationName"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0.85"
+            android:gravity="center_horizontal"
+            android:paddingTop="0dp"
+            android:text="Wake Me Up !"
+            android:textColor="#000000"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="@drawable/separator" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:onClick="onClickSettings"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:src="@drawable/settings" />
+
+        <ImageView
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="@drawable/separator" />
+
+        <ImageView
+            android:id="@+id/imageViewInfo"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:onClick="onClickInfo"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:src="@drawable/info" />
+
+        <ImageView
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="@drawable/separator" />
+    </LinearLayout>
+
+</LinearLayout>
